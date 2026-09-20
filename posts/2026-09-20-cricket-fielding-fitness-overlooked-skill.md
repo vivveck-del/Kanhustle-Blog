@@ -9,6 +9,8 @@ status: ready-to-publish
 
 # Cricket Fielding Fitness: The Most Overlooked Skill in Age-Group Cricket
 
+![A half-circle diagram of a cricket field split into three fielding zones: close-in fielders need quick reflexes and reactive catching, inner-circle fielders need reactive skill and a powerful accurate throw, and boundary fielders need to sprint up to 40 metres plus a long accurate throw](images/fielding-zones-diagram.png)
+
 Walk into almost any age-group cricket net session and you'll see hours poured into bowling actions and batting technique — and almost nothing dedicated to fielding conditioning. Yet fielders spend roughly half of every match on the ground, performing some of the most explosive, high-injury-risk movements in the entire game: sprinting flat out, diving, and firing the ball in at full effort, often off balance. A 2023 narrative review in the *Strength & Conditioning Journal* makes the case plainly — fielding deserves its own dedicated training program, not leftover time at the end of a bowling session.
 
 ## Fielding isn't one skill — it's several, and they need different training

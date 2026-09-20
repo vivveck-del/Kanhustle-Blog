@@ -9,6 +9,8 @@ status: ready-to-publish
 
 # Why So Many Young Fast Bowlers Get Injured — And What New Research Says Actually Prevents It
 
+![A bar chart showing that fast bowlers with a workload spike above 50 overs in a match face 2.45 times the injury risk of normal week-to-week workload, over the following 21-28 days](images/fast-bowler-injury-chart.png)
+
 If you're a parent driving your child to net practice three times a week, or a young bowler chasing extra pace, here's a number worth pausing on: reported injury rates among adolescent fast bowlers range from **11% to 67%**, with lumbar stress injuries and hamstring strains topping the list. That's not a rare setback — for many young quicks, it's almost expected. New research from 2026 shows it doesn't have to be.
 
 ## The real cause isn't "bad luck" — it's workload

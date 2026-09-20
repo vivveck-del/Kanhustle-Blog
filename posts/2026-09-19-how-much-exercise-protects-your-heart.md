@@ -9,6 +9,8 @@ status: ready-to-publish
 
 # How Much Exercise Actually Protects Your Heart? New Research Says More Than You Think
 
+![A bar chart showing that 150 minutes of exercise a week is linked to an 8-9% lower cardiovascular disease risk, while 560-610 minutes a week is linked to a 32% lower risk, compared to inactive adults](images/heart-dose-response-chart.png)
+
 If you're hitting the standard "150 minutes of exercise a week" target and assuming your heart is well protected, new research says you're only getting a fraction of the benefit available. A large 2026 study just put a real number on how much exercise it actually takes to meaningfully cut your cardiovascular risk — and it's roughly four times higher than most guidelines suggest.
 
 ## The study: bigger, more rigorous than most

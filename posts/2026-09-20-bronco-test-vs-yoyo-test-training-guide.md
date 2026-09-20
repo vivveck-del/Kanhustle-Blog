@@ -9,6 +9,8 @@ status: ready-to-publish
 
 # Bronco Test vs. Yo-Yo Test: How to Train for BCCI's Tougher Fitness Standard
 
+![A diagram of the Bronco test course: cones placed at 0m, 20m, 40m and 60m, with a sprint out-and-back pattern to each cone forming one 240m rep, repeated 5 times with zero rest for a total of 1,200m, with a target time of under 6 minutes](images/bronco-course-diagram.png)
+
 If you learned your cricket fitness benchmarks from the Yo-Yo test era, there's a new name you need to know: the **Bronco test**. Team India's fitness coach Adrian Le Roux introduced it ahead of the 2025 Asia Cup, and it's now the fitness standard players are measured against — including, indirectly, everyone coming up through state and age-group cricket hoping to get noticed. AB de Villiers, who's seen every fitness fad cricket has thrown at players, described the experience bluntly: "those lungs would burn."
 
 ## What actually changed
